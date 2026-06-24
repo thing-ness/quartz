@@ -1,4 +1,7 @@
-hello quartz!
-or not as the case may be
+it's rolling now bob
 
-is it rolling bob?
+that didntdiddididntdid take a long time lol
+
+[[github obsidian quartz 17-6-26]]
+
+and now it doesn't work
