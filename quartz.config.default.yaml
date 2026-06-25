@@ -195,7 +195,7 @@ plugins:
       position: afterBody
       priority: 10
   - source: github:quartz-community/footer
-    enabled: true
+    enabled: false
     options:
       links:
         link1: https://github.com/jackyzha0/quartz

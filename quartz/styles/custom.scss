@@ -1,7 +1,12 @@
 @use "./variables.scss" as *;
 
 
-p, text, li, ol, ul, tbody {
+  .entry-meta .reading-time {
+  display: none;
+}
+  
+  
+  p, text, li, ol, ul, tbody {
     font-size: 18px;
     line-height: 2.0rem;
 }
@@ -11,8 +16,5 @@ h1 {
 h2 {
   font-size: 20px;
   
-  .entry-meta .reading-time {
-  display: none;
-}
-  
+
 }// put your custom CSS here!
