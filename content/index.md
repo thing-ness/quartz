@@ -1,13 +1,16 @@
 \--
+
 format:
 html:
 grid:
 sidebar-width: 200px /\* Left column _/
 body-width: 800px /_ Main content _/
 margin-width: 200px /_ Right margin \*/
----------------------------------------
+
+---
 
 index
+v1.02
 
 # this is the frontpage
 
@@ -27,7 +30,6 @@ if you use github desktop it's super easy sort of.
 ---
 
 [[a random note]]
+[[de lachende derde]]
 
 ---
-
-v1.01
