@@ -1,5 +1,16 @@
 @use "./variables.scss" as *;
 
+/* Increase the main content area */
+#quarto-document-content {
+  width: 80%; /* Or a specific pixel value */
+}
+
+/* Adjust the sidebar width */
+#quarto-sidebar {
+  width: 20%; 
+  max-width: 300px;
+}
+
 p, text, li, ol, ul, tbody {
     font-size: 18px;
     line-height: 2.0rem;
@@ -9,4 +20,7 @@ h1 {
 }
 h2 {
   font-size: 20px;
+  
+  
+  
 }// put your custom CSS here!
