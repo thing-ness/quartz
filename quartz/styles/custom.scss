@@ -1,3 +1,12 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+p, text, li, ol, ul, tbody {
+    font-size: 20pt;
+    line-height: 2.0rem;
+}
+h1 {
+  font-size: 20px;
+}
+h2 {
+  font-size: 20px;
+}// put your custom CSS here!
