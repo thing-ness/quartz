@@ -1,15 +1,5 @@
 @use "./variables.scss" as *;
 
-/* Increase the main content area */
-#quarto-document-content {
-  width: 85%; /* Or a specific pixel value */
-}
-
-/* Adjust the sidebar width */
-#quarto-sidebar {
-  width: 15%; 
-  max-width: 200px;
-}
 
 p, text, li, ol, ul, tbody {
     font-size: 18px;
