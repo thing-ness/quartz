@@ -2,7 +2,9 @@
 
 this looks like a lovely film.
 
-## [[Silent Friend]]
+[[Silent Friend]]
+
+---
 
 i saw this at the Art Brut Biënnale 2026 in Hengelo
 
