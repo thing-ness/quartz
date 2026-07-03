@@ -1,6 +1,6 @@
 hello.
 
-this is [thingness](https://thing-ness.github.io/quartz/).
+this is [everythingness](https://everythingness.net).
 and this is v1.1 of the index page.
 that's all.
 
