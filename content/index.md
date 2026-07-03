@@ -1,7 +1,13 @@
+---
+publish: true
+permalink: /index.md
+title: everythingness
+---
+
 hello.
 
 this is [everythingness](https://everythingness.net).
-and this is v1.04 of the index page.
+and this is v1.1 of the index page.
 that's all.
 
 or do you want to see a picture of my mother?
