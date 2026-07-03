@@ -1,5 +1,9 @@
-Review van het boek Autisme: Een biografie van Niels Springveld
-uit De Groene
+---
+publish: true
+permalink: /Autisten-Niels-Springveld.md
+---
+
+## Review van het boek Autisme - Een biografie van Niels Springveld uit De Groene
 
 Het zijn de details die de verhalen, en daarmee het boek, van historicus Niels Springveld over de geschiedenis van autisme zo goed maken. Een willekeurige scène om dat te illustreren: het is de jaren zestig, een echtpaar (‘de Warrens’) zoekt, net als veel ouders in die tijd, hulp voor hun autistische zoontje George. Hij is voor hen een mysterie: hij weigert te slapen, schreeuwt en huilt onophoudelijk, ontsnapt uit huis, klimt op het dak, inhaleert benzinelucht, enzovoort.
 

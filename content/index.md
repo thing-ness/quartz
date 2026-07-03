@@ -1,9 +1,17 @@
-this is https://thing-ness.github.io/quartz/
-and this is the index.
-
+this is [thingness](https://thing-ness.github.io/quartz/).
+and this is v1.07 of the index page.
 that's all.
 
-ok ok
-this website is written on a 2015 macbook air 11" in iawriter and obsidian and published with the quartz plugin on github pages.
+ps this is a picture of my mother :
 
-<small>❊ n.b. this method of making a website is not for the faint of heart or the short of temper.</small>
+![[!files/mama-by-hasret-arslan.png]]
+
+Hasret Arslan
+Titel : mama
+Formaat 60cm x 60cm
+
+i saw this at the art brut biënnale 2026 in hengelo.
+
+---
+
+<small>❊ ok ok this is written on a 11" 2015 macbook air i7 2.2ghz in ia writer and fsnotes. published with [quartz 5](https://quartz.jzhao.xyz/) via the obsidian plugin on [github pages](https://github.com/thing-ness/quartz). n.b. this method of publishing a website is not for the faint of heart or the short of temper.</small>
