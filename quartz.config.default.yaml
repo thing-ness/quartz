@@ -155,6 +155,9 @@ plugins:
       priority: 10
   - source: github:quartz-community/content-meta
     enabled: true
+     options:
+      showReadingTime: false
+      showComma: false
     layout:
       position: beforeBody
       priority: 20
