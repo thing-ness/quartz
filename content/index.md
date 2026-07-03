@@ -1,7 +1,7 @@
 hello.
 
 this is [everythingness](https://everythingness.net).
-and this is v1.03 of the index page.
+and this is v1.04 of the index page.
 that's all.
 
 or do you want to see a picture of my mother?
