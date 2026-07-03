@@ -1,4 +1,11 @@
-v1.05
+v1.06
+this is for things you want to be uploaded but not linked and if you don't link them somewhere they won't upload!
+
+and the links don't work!
+
+and i want to get rid of where it says 'footnotes' above the footnotes since it is obvious to anyone but a bear of very little brain that it is a footnote.
+
+---
 
 ==The most total and extreme way of communicating with another being is love. Then you totally open to the other person and you see the most beautiful core that even that person perhaps doesn’t know.==
 
