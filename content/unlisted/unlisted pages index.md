@@ -1,9 +1,11 @@
 v1.06
 this is for things you want to be uploaded but not linked and if you don't link them somewhere they won't upload!
 
-and the links don't work!
+but the links don't work!
 
-and i want to get rid of where it says 'footnotes' above the footnotes since it is obvious to anyone but a bear of very little brain that it is a footnote.
+[[Hoe David Foster Wallace via Dostojevski tot ‘Infinite Jest’ kwam]]
+
+and i want to get rid of where it says 'footnotes' above the footnotes since it is obvious to even a bear of very little brain that it is a footnote.
 
 ---
 
