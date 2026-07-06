@@ -7,10 +7,20 @@ title: everythingness
 hello.
 
 this is [everythingness](https://everythingness.net).
-and this is v1.1 of the index page.
+and this is v1.11 of the index page.
 that's all.
 
-or do you want to see a picture of my mother?
+---
+
+of all the writing about mothers i've read, jeanette winterson's is the most ... (tries to think of an appropriate superlative and fails...)
+
+this mindboggling chapter called 'the wound' from 'why be happy when you can be normal?' is but the tip of an iceberg which is, there, beginning to melt.
+
+![[pdf/winterson-the wound.pdf]]
+
+---
+
+or maybe you want to see a picture of my mother?
 
 ![[!files/mama-by-hasret-arslan.png]]
 
@@ -20,10 +30,14 @@ Formaat : 60cm x 60cm
 
 i saw this at the art brut biënnale 2026 in hengelo.
 
+---
+
 or do you want to read a [review](https://everythingness.net/autisten-niels-springveld) of a book called _Autisme - Een biografie_? (in dutch).
 
 ---
 
-❊ written on a 11" 2015 macbook air i7 2.2ghz in ia writer and fsnotes. published with [quartz 5](https://quartz.jzhao.xyz/) via the [quartz-syncer obsidian plugin](https://github.com/saberzero1/quartz-syncer) on [github pages](https://docs.github.com/en/pages). n.b. this method of publishing a website is not for bears of very little brain[^1] or the faint of heart and the short of temper.
+❊ written on a 11" 2015 macbook air i7 2.2ghz in ia writer and fsnotes. published with [quartz 5](https://quartz.jzhao.xyz/) via the [quartz-syncer obsidian plugin](https://github.com/saberzero1/quartz-syncer) on [github pages](https://docs.github.com/en/pages).
+
+n.b. this method of publishing a website is not for bears of very little brain[^1] or the faint of heart and the short of temper.
 
 [^1]: A.A. Milne : When you are a Bear of Very Little Brain, and you Think of Things, you find sometimes that a Thing which seemed very Thingish inside you is quite different when it gets out into the open and has other people looking at it.

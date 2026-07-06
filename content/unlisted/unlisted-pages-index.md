@@ -1,4 +1,4 @@
-unlisted-pages-index
+unlisted/unlisted-pages-index
 
 v1.07
 this is for things you want to be uploaded but not linked and if you don't link them somewhere they won't upload!
